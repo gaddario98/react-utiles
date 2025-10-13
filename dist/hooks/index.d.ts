@@ -1,1 +1,0 @@
-export { useTranslatedText } from "./useTranslatedText";
